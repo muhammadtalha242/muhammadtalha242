@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @muhammadtalha242
 - 👀 I’m interested in 💻🕸
 - 🌱 I’m currently learning 
-- 📫 How to reach me m.talha2244@gnail.com
-
+- 📫 How to reach me m.talha2244@gmail.com
+- 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/muhmmad-talha-mt/) for more details about me.
 ### 🛠 &nbsp;My Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
